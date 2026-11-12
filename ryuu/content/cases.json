@@ -1,0 +1,261 @@
+[
+  {
+    "id": "oct21",
+    "date": "Oct 21 to 22",
+    "name": "The fade under 85k",
+    "dirs": [
+      "short"
+    ],
+    "range": "84.8k to 81.9k",
+    "tf": "5m candles, 3 days",
+    "shots": [
+      [
+        "/cases/oct21-fade.webp",
+        "Seven hours under the 85k ask stack, then the slide to 81.9k."
+      ]
+    ],
+    "read": [
+      [
+        "Before",
+        "The push into 84.8k squeezed shorts on the way up, and OI dropped during it. The fuel was burned before price reached the wall."
+      ],
+      [
+        "Tell",
+        "Seven hours under a thick ask stack at 85.0k and above. Five tests of the high, a wide and loose range, then a lower high around 23:00."
+      ],
+      [
+        "Trigger",
+        "Losing the 84.1k bids, followed by about $13M of long liquidations."
+      ],
+      [
+        "After",
+        "Price fell all morning while OI climbed. That is new shorts pressing. It based around 81.5k to 82k."
+      ]
+    ],
+    "lesson": "Leaning on a wall is not enough. Check whether the squeeze already happened on the way there."
+  },
+  {
+    "id": "oct29",
+    "date": "Oct 29",
+    "name": "The dump through 80k",
+    "dirs": [
+      "short"
+    ],
+    "range": "81.9k to 78.2k",
+    "tf": "5m",
+    "shots": [
+      [
+        "/cases/oct29-dump.webp",
+        "Top under 82k, loss of the 81,196 line, the shelf, then the flush."
+      ]
+    ],
+    "read": [
+      [
+        "Before",
+        "The pump topped under asks at 82k, then lost the 81,196 line. OI bled for 90 minutes as longs left."
+      ],
+      [
+        "Tell",
+        "A two-hour shelf at 80.7k to 80.9k with lower highs. Many bids between 79k and 80k had left the book when price rallied away earlier."
+      ],
+      [
+        "Trigger",
+        "The break of the shelf at 20:00."
+      ],
+      [
+        "End signal",
+        "About $48M of long liquidations at 20:40."
+      ]
+    ],
+    "lesson": "The first liquidation spike was a scalp. The bounce pulled OI back up and trapped dip buyers under 80k."
+  },
+  {
+    "id": "oct30",
+    "date": "Oct 30",
+    "name": "The rally off 76.5k",
+    "dirs": [
+      "long"
+    ],
+    "range": "76.5k to 78.7k",
+    "tf": "5m",
+    "shots": [
+      [
+        "/cases/oct30-rally.webp",
+        "Second flush at 00:15, quiet low at 02:05, POC reclaim, rally to the breakdown shelf."
+      ]
+    ],
+    "read": [
+      [
+        "Before",
+        "A second $48M flush at 00:15 cleaned out the trapped dip buyers, and OI collapsed."
+      ],
+      [
+        "Tell",
+        "The final low at 76.5k came on almost no liquidations and no delta, right on a bid that had sat there for hours."
+      ],
+      [
+        "Trigger",
+        "Price reclaimed the 77.25k POC and held on top of it for 40 minutes."
+      ],
+      [
+        "End signal",
+        "It stalled at 78.5k to 78.7k, the shelf where the second flush started."
+      ]
+    ],
+    "lesson": "The durable low was the quiet third push, after OI had reset. It was not the big liquidation candle."
+  },
+  {
+    "id": "nov04",
+    "date": "Nov 4",
+    "name": "The pump to 81.2k",
+    "dirs": [
+      "long"
+    ],
+    "range": "75.7k to 81.2k",
+    "tf": "15m",
+    "shots": [
+      [
+        "/cases/nov04-pump.webp",
+        "Flush into the 76k bid, six hours under 78.2k to 78.6k, then the squeeze."
+      ]
+    ],
+    "read": [
+      [
+        "Before",
+        "Price flushed into a thick bid at 76k on heavy sell delta and long liquidations, then reclaimed 76k within two candles."
+      ],
+      [
+        "Tell",
+        "It sat directly under heavy asks at 78.2k to 78.6k for six hours and never got rejected."
+      ],
+      [
+        "Trigger",
+        "The reclaim of 76k for the early entry. The break over 78.6k for the late one."
+      ],
+      [
+        "End signal",
+        "$106M of short liquidations and an OI spike, straight into the heaviest asks at 81k and above."
+      ]
+    ],
+    "lesson": "A tight range with higher lows under a wall, with the short liquidations still above it, is the version that breaks."
+  },
+  {
+    "id": "nov05",
+    "date": "Nov 5",
+    "name": "The round trip down",
+    "dirs": [
+      "short"
+    ],
+    "range": "80.5k to 75.3k",
+    "tf": "15m",
+    "shots": [
+      [
+        "/cases/nov05-dump.webp",
+        "Lost POC at 80.5k, the weak shelf, then the fall through the thin zone."
+      ],
+      [
+        "/cases/nov04-07-roundtrip.webp",
+        "Nov 4 to 7 in one view: the pump and the dump through the same thin zone."
+      ]
+    ],
+    "read": [
+      [
+        "Before",
+        "OI bled out for hours after the pump while price went flat under 81.2k. Nobody new was buying."
+      ],
+      [
+        "Tell",
+        "It lost the 80.5k POC, the 79.9k bid got eaten, then a weak shelf formed at 79.6k to 79.8k."
+      ],
+      [
+        "Trigger",
+        "The break of the 79.6k shelf."
+      ],
+      [
+        "End signal",
+        "About $45M of long liquidations into the thick 75.0k to 75.2k bid, which held."
+      ]
+    ],
+    "lesson": "A pump that leaves a thin zone behind can be retraced through that zone just as fast."
+  },
+  {
+    "id": "nov08",
+    "date": "Nov 8",
+    "name": "The Sunday nuke",
+    "dirs": [
+      "short",
+      "long"
+    ],
+    "range": "75.7k to 73.45k",
+    "tf": "5m",
+    "shots": [
+      [
+        "/cases/nov08-nuke.webp",
+        "All-day range under 76.1k, lost POC, then the flush and the V."
+      ]
+    ],
+    "read": [
+      [
+        "Before",
+        "An all-day range capped by an ask at 76.1k. It lost the 75.85k POC around 17:00 and every retest from underneath failed."
+      ],
+      [
+        "Tell",
+        "Lower highs through the evening and a slow bleed toward the range low."
+      ],
+      [
+        "Trigger",
+        "The break of the range low near 75.6k."
+      ],
+      [
+        "End signal",
+        "$92M of long liquidations, and the wick was bought back inside the same candle."
+      ]
+    ],
+    "lesson": "Sunday night book. The stacked bids below vanished on the way down, and the liquidation spike was a straight V."
+  },
+  {
+    "id": "nov10",
+    "date": "Nov 10",
+    "name": "The 73k sweep",
+    "dirs": [
+      "short",
+      "long"
+    ],
+    "range": "74.85k to 72.7k and back",
+    "tf": "5m and 15m",
+    "shots": [
+      [
+        "/cases/nov10-arrows.webp",
+        "The rejection at 74.85k, the flush, and the rally back."
+      ],
+      [
+        "/cases/nov10-heatmap.webp",
+        "Closer view of the book: bids at 73k, 72.9k and 72.75k get hit, the 72.5k wall is never reached."
+      ],
+      [
+        "/cases/nov10-profile.webp",
+        "15m profile view: the wick low from Nov 8 and the 74.75k POC shared by two sessions."
+      ]
+    ],
+    "read": [
+      [
+        "Down",
+        "The rally into 74.85k came on rising OI, tagged the two-day POC at 74.75k, printed short liquidations at the high and got rejected."
+      ],
+      [
+        "Tell at the low",
+        "The biggest sell delta came on the first leg to 73k, with about $20M of long liquidations. The lower low at 72.7k came on much smaller delta and liquidations, and OI ticked up there (late shorts)."
+      ],
+      [
+        "Trigger",
+        "The reclaim of 73.5k, the swept low from Nov 8."
+      ],
+      [
+        "Up",
+        "The rally ran on falling OI and flat CVD, which is short covering. At 21:10 it was pushing into the thickest asks at 74.0k to 74.2k."
+      ]
+    ],
+    "lesson": "The 13:30 sweep of the same level gave the same signal, tagged the POC and then failed. Take profit at value."
+  }
+]
